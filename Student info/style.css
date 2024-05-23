@@ -1,0 +1,9 @@
+h1{
+    color: rgb(6, 2, 16);
+}
+table,th,td{
+    border: 1px solid brown;
+    background-color: rgb(224, 214, 201);
+}
+body{background: linear-gradient(135deg, #71b7e6,#9b59b6,#8d5eca);
+}
